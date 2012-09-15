@@ -1,0 +1,20 @@
+<head>
+<script type="text/javascript">
+function open_win()
+{
+myWindow=window.open('','','width=200,height=100');
+myWindow.document.write("<p>this is 'myWindow'</p>");
+
+}
+function move_win()
+{
+myWindow.moveTo(200,200);
+myWindow.focus();
+}
+
+</script>
+</head>
+<body>
+<input type="button" value="open window" onClick="open_win()"/>
+<input type="button" value="move window" onClick="move_win()"/>
+</body>
