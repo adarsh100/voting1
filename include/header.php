@@ -906,7 +906,7 @@ input.error, select.error {
 
 <div class="panel1">
 <a href="http://localhost/voting/guideline.pdf" class="telephone" target="_blank">GUIDELINE FOR VOTERS</a></br>
-<a href="http://localhost/voting/luckyform.php" class="telephone" >REGISTRATION FORM (form-6)</a></br>
+<a href="luckyform.php" class="telephone" >REGISTRATION FORM (form-6)</a></br>
 <a href="http://localhost/voting/FORM7.pdf" class="telephone" target="_blank">FORM-7</a></br>
 
 </div>
